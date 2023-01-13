@@ -1,3 +1,5 @@
 myrepo
 
 Menambahan cabang fitur-a yang induk cabangnya adalah develop
+
+sekarang di cabang release akan merge cabang master
